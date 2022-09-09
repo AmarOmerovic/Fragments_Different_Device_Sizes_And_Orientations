@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../Android/Sdk/platforms/android-32/data/res/layout-land/activity_main.xml" value="0.41510416666666666" />
+        <entry key="../../../../../../Android/Sdk/platforms/android-32/data/res/layout-land/list_fragment.xml" value="0.41510416666666666" />
+        <entry key="../../../../../../Android/Sdk/platforms/android-32/data/res/layout-port/list_fragment.xml" value="0.3338541666666667" />
+        <entry key="../../../../../../Android/Sdk/platforms/android-32/data/res/layout-sw600dp/activity_main.xml" value="0.25" />
+        <entry key="../../../../../../Android/Sdk/platforms/android-32/data/res/layout-sw600dp/fragment_course_detail.xml" value="0.250390625" />
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.75" />
+        <entry key="app/src/main/res/layout-land/course_list_item.xml" value="0.45" />
+        <entry key="app/src/main/res/layout-land/fragment_course_detail.xml" value="0.45" />
+        <entry key="app/src/main/res/layout-land/list_fragment.xml" value="0.41510416666666666" />
+        <entry key="app/src/main/res/layout-sw320dp-land/activity_course_detail_activty.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-sw320dp-land/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout-sw320dp-land/fragment_course_detail.xml" value="0.33" />
+        <entry key="app/src/main/res/layout-sw320dp-land/list_fragment.xml" value="0.22" />
+        <entry key="app/src/main/res/layout-sw320dp/activity_course_detail_activty.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-sw320dp/activity_main.xml" value="0.250390625" />
+        <entry key="app/src/main/res/layout-sw320dp/course_list_item.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout-sw320dp/fragment_course_detail.xml" value="0.27393162393162396" />
+        <entry key="app/src/main/res/layout-sw320dp/list_fragment.xml" value="0.2" />
+        <entry key="app/src/main/res/layout-sw480dp/activity_main.xml" value="0.12260902830910482" />
+        <entry key="app/src/main/res/layout-sw600dp/activity_main.xml" value="0.250390625" />
+        <entry key="app/src/main/res/layout-sw600dp/course_list_item.xml" value="0.22" />
+        <entry key="app/src/main/res/layout-sw600dp/fragment_course_detail.xml" value="0.250390625" />
+        <entry key="app/src/main/res/layout-sw600dp/list_fragment.xml" value="0.22" />
+        <entry key="app/src/main/res/layout-w600dp/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w600dp/course_list_item.xml" value="0.10104166666666667" />
+        <entry key="app/src/main/res/layout-w600dp/my_fragment.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_course_detail.xml" value="0.2980072463768116" />
+        <entry key="app/src/main/res/layout/activity_course_detail_activty.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/course_list_item.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/dactivity_course_detail.xml" value="0.2980072463768116" />
+        <entry key="app/src/main/res/layout/fragment_course_detail.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/fragment_item_list.xml" value="0.31875" />
+        <entry key="app/src/main/res/layout/list_fragment.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/my_fragment.xml" value="0.3231197771587744" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1875" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
